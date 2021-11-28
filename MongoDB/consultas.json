@@ -1,0 +1,251 @@
+db.tweets.insertOne({
+    _id: 1,
+    usuario: {nick:"bertoldo", seguidores:1320},
+    texto: "@herminia: hoy, excursion a la sierra con @aniceto!",
+    menciones: ["herminia","aniceto"],
+    RT: false
+})
+
+//----------aggregate-------group-----------------------
+
+db.tweets.aggregate(
+    [
+        {
+            $group:{
+                _id:"$usuario.nick",
+                num_tweets:{$sum:1}
+            }
+        }
+    ]
+)
+
+db.tweets.aggregate(
+    [
+        {$sortByCount: "$usuario.nick"}
+    ]
+)
+
+db.tweets.aggregate(
+    [
+        {
+            $group:{
+                _id:{nick:"$usuario.nick", RT:'$RT'},
+                num_tweets:{$sum:1}
+            }
+        }
+    ]
+)
+
+db.tweets.aggregate(
+    [
+        {
+            $group:{
+                _id:"$usuario.nick",
+                textos:{$push:"$text"}
+            }
+        }
+    ]
+)
+
+db.tweets.aggregate(
+    [
+        {
+            $group:{
+                _id:null,
+                menciones:{$avg:{$size:"$mentions"}}
+            }
+        }
+    ]
+)
+
+//-------aggregate----match----------
+
+db.tweets.aggregate(
+    [
+        {$sortByCount:"$usuario.nick"},
+        {$match:{count:{$gt:20}}}
+    ]
+)
+
+//-------aggregate----project----------
+
+db.tweets.aggregate(
+    [
+        {
+            $project:{
+                usuario:1,
+                _id:0,
+                numMentions:{$size:"$mentions"}
+            }
+        }
+    ]
+)
+
+//------aggregate----unwind---sample---out----
+
+db.unwind.aggregate([{$unwind:"$b"]])
+
+db.tweets.aggregate(
+    [
+        {
+            $sample:{size:2}
+        }
+    ]
+)
+
+db.tweets.aggregate([{$sample:{size:3}},{$out:"minitweets"}])
+
+//------aggregate---lookup----
+
+db.tweets.findOne({RT:true})
+
+db.tweets.aggregate(
+    {
+        $lookup:{
+            from:<coleccion a combinar>,
+            localField:<clave de los documentos de origen>,
+            foreignField:<clave de los documentos de la collecion "from">,
+            as:<nombre del campo array generado>
+        }
+    }
+)
+
+db.tweets.aggregate(
+    [
+        {$match:{RT:true}},
+        {
+            $lookup:{
+                from:"tweets",
+                localField:"origen",
+                foreignField:"_id",
+                as:"tweet_original"
+            }
+        },
+        {$unwind:"$tweet_original"},
+        {
+            $project:{
+            _id:"$_id",
+            emitido:"$usuario.nick",
+            fuente:"$tweet_original.usuario.nick"
+            }
+        }
+    ]
+)
+
+//---usuario mas mencionado
+
+db.tweets.aggregate(
+    [
+        {$match:{"RT":true}},
+        {$unwind:"$mentions"},
+        {$sortByCount:"$mentions"}
+    ]
+)
+
+//---vistas
+
+db.createView("mencionesOriginales","tweets",[
+    {$match:{"RT":true}},
+    {$unwind:"$mentions"},
+    {$sortByCount:"$mentions"}
+])
+
+//--update total
+
+use astronomia
+db.estelar.insert({
+    _id:1,
+    nombre:"Sirio",
+    tipo:"estrella",
+    espectro:"A1V"
+})
+db.estelar.insert({
+    _id:2,
+    nombre:"Saturno",
+    tipo:"planeta"
+})
+db.estelar.insert({
+    _id:3,
+    nombre:"Pluton",
+    tipo:"planeta"
+})
+
+//-- update total
+
+db.estelar.update({_id:3},{tipo:"planeta_enano"})
+db.estelar.find({_id:3})
+
+//--se ha perdido el campo nombre delbido a que es un updte total
+//-- para no perder datos debemos escribir
+
+db.estelar.update({_id:3},{
+    nombre:"Pluton",
+    tipo:"planeta_enano"
+})
+
+//--update parcial
+
+db.estelar.updateOne({nombre:"Pluton"},{
+    $set:{tipo:"planeta enano"}
+})
+
+//--modificar todos los documentos que cumplan una determinada condicion
+
+db.estelar.updateMany({},{
+    $currentDate:{fecha:true}
+})
+
+// --renombrar tipo a clase
+db.estelar.updateMany({},{
+    $rename:{"tipo":"clase"}
+})
+
+//---eliminar claves existentes
+db.estelar.updateOne({nombre:"Sirio"},{
+    $unset:{"espectro":true}
+})
+
+//---operadores interesantes aritmeticos $inc, $max, $min, $mul
+
+db.productos.insert({
+    _id:"123",
+    cantidad:10,
+    vendido:0
+})
+
+//---incrmentando la cantidad vendido y decrementando la cantidad
+
+db.productos.update({_id:"123"},{
+    $inc:{almacen:-1, vendido: 1}
+})
+
+//--UPSERT---------------
+//---dar de baja a bertoldo
+
+db.clientes.updateOne({nombre:'Bertoldo'},{
+    $set:{baja:true}
+})
+//---si no exxte en la bd y queremos darle de baja o crearlo utiliamos el upsert
+db.clientes.updateOne({nombre:'Bertoldo'},{
+    $set:{baja:true}
+},{upsert:true})
+
+//----upsert correctaamente escrito
+db.clientes.updateOne({nombre:'Bertoldo'},{
+    $set:{baja:true},
+    $setOnInsert:{pertenencia:0}
+},{upsert:true})
+
+
+//------REMOVE-------------
+
+db.estelar.remove({
+    clase:'planeta enano'
+})
+//--remove just one
+
+db.estelar.remove({
+    clase:'planeta'
+},{justOne:true})
+
+

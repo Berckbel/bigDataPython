@@ -1,0 +1,3187 @@
+[
+    {
+        "created_at": "Tue Dec 29 22:00:19 +0000 2020",
+        "id": 1344040577151750144,
+        "id_str": "1344040577151750144",
+        "text": "En este #curso #online aprenderás nuevas técnicas de Machine Learning y Artificial Intelligence con lenguaje de pro… https://t.co/rF9MoRAmPT",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "curso",
+                    "indices": [
+                        8,
+                        14
+                    ]
+                },
+                {
+                    "text": "online",
+                    "indices": [
+                        15,
+                        22
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/rF9MoRAmPT",
+                    "expanded_url": "https://twitter.com/i/web/status/1344040577151750144",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 185758302,
+            "id_str": "185758302",
+            "name": "RiskMathics",
+            "screen_name": "RiskMathicsFI",
+            "location": "México, D.F.",
+            "description": "Cursos de alto nivel, consultoría e investigaciones en Administración de Riesgos, Productos Derivados, Finanzas Cuantitativas, Gobierno Corporativo.",
+            "url": "http://t.co/7AKmoaWfJJ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/7AKmoaWfJJ",
+                            "expanded_url": "http://www.riskmathics.com",
+                            "display_url": "riskmathics.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3437,
+            "friends_count": 4625,
+            "listed_count": 161,
+            "created_at": "Wed Sep 01 19:32:17 +0000 2010",
+            "favourites_count": 1556,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 16834,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1301271056343339008/uKIaynOR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1301271056343339008/uKIaynOR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/185758302/1397147505",
+            "profile_link_color": "853B2F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:16 +0000 2020",
+        "id": 1344040564346523648,
+        "id_str": "1344040564346523648",
+        "text": "RT @datapride_net: Machine Learning Scientist with Python.\nhttps://t.co/yS5BUbHkYe\n\n#100DaysOfCode #100daysofdata #DataAnalytics #MachineLe…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "100DaysOfCode",
+                    "indices": [
+                        84,
+                        98
+                    ]
+                },
+                {
+                    "text": "100daysofdata",
+                    "indices": [
+                        99,
+                        113
+                    ]
+                },
+                {
+                    "text": "DataAnalytics",
+                    "indices": [
+                        114,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "datapride_net",
+                    "name": "DataPride",
+                    "id": 1108001526872723461,
+                    "id_str": "1108001526872723461",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/yS5BUbHkYe",
+                    "expanded_url": "https://bit.ly/3qCUh4C",
+                    "display_url": "bit.ly/3qCUh4C",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://youngapp.co\" rel=\"nofollow\">Yap Code Learn</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1221691042325508098,
+            "id_str": "1221691042325508098",
+            "name": "API Learn Community",
+            "screen_name": "api_learnn",
+            "location": "",
+            "description": "Share great ressources for learn next-gen API on NodeJS 💪. #serverless #graphql 🙌🙌",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2331,
+            "friends_count": 5001,
+            "listed_count": 26,
+            "created_at": "Mon Jan 27 07:07:15 +0000 2020",
+            "favourites_count": 693,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 47001,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1261829900534775809/7hzVnb57_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261829900534775809/7hzVnb57_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221691042325508098/1580394962",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 29 21:13:44 +0000 2020",
+            "id": 1344028852960563201,
+            "id_str": "1344028852960563201",
+            "text": "Machine Learning Scientist with Python.\nhttps://t.co/yS5BUbHkYe\n\n#100DaysOfCode #100daysofdata #DataAnalytics… https://t.co/bdpwRXpjgV",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "100DaysOfCode",
+                        "indices": [
+                            65,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "100daysofdata",
+                        "indices": [
+                            80,
+                            94
+                        ]
+                    },
+                    {
+                        "text": "DataAnalytics",
+                        "indices": [
+                            95,
+                            109
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/yS5BUbHkYe",
+                        "expanded_url": "https://bit.ly/3qCUh4C",
+                        "display_url": "bit.ly/3qCUh4C",
+                        "indices": [
+                            40,
+                            63
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/bdpwRXpjgV",
+                        "expanded_url": "https://twitter.com/i/web/status/1344028852960563201",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            111,
+                            134
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1108001526872723461,
+                "id_str": "1108001526872723461",
+                "name": "DataPride",
+                "screen_name": "datapride_net",
+                "location": "",
+                "description": "#DataScience #MachineLearning #DeepLearning #AI #Dataanalysis",
+                "url": "https://t.co/qqfhUc5VfS",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/qqfhUc5VfS",
+                                "expanded_url": "https://bit.ly/3oO5spz",
+                                "display_url": "bit.ly/3oO5spz",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 132,
+                "friends_count": 22,
+                "listed_count": 0,
+                "created_at": "Tue Mar 19 13:45:24 +0000 2019",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 261,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1338161870465867776/XadXBDCP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338161870465867776/XadXBDCP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108001526872723461/1584023405",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 12,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:14 +0000 2020",
+        "id": 1344040556905852928,
+        "id_str": "1344040556905852928",
+        "text": "RT @svpino: A process to learn Machine Learning:\n\n- Start with Python\n- numpy, pandas, matplotlib\n- Learn to use notebooks\n- Find a (solved…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "svpino",
+                    "name": "Santiago",
+                    "id": 18737039,
+                    "id_str": "18737039",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1304801756887613440,
+            "id_str": "1304801756887613440",
+            "name": "Remote Soul",
+            "screen_name": "NeryanW",
+            "location": "",
+            "description": "Manager at heart ♥. Freelancer, aspiring front-end web developer, designer and subtly charming nerd. #GrowthMindset",
+            "url": "https://t.co/pDbSKoK6CZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/pDbSKoK6CZ",
+                            "expanded_url": "http://remotesoul.carrd.co",
+                            "display_url": "remotesoul.carrd.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 40,
+            "friends_count": 74,
+            "listed_count": 0,
+            "created_at": "Sat Sep 12 15:19:21 +0000 2020",
+            "favourites_count": 278,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 117,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1337886413262643200/HVCFjJk1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337886413262643200/HVCFjJk1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1304801756887613440/1599925667",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 29 08:40:00 +0000 2020",
+            "id": 1343839170540683268,
+            "id_str": "1343839170540683268",
+            "text": "A process to learn Machine Learning:\n\n- Start with Python\n- numpy, pandas, matplotlib\n- Learn to use notebooks\n- Fi… https://t.co/sivHCpoJVc",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/sivHCpoJVc",
+                        "expanded_url": "https://twitter.com/i/web/status/1343839170540683268",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 18737039,
+                "id_str": "18737039",
+                "name": "Santiago",
+                "screen_name": "svpino",
+                "location": "Florida, United States",
+                "description": "Have you wondered what Applied Machine Learning looks like?",
+                "url": "https://t.co/NPIFFM8fUi",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/NPIFFM8fUi",
+                                "expanded_url": "https://gumroad.com/svpino",
+                                "display_url": "gumroad.com/svpino",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 38537,
+                "friends_count": 300,
+                "listed_count": 626,
+                "created_at": "Wed Jan 07 20:35:01 +0000 2009",
+                "favourites_count": 21107,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 16374,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1301989244018348033/3RL0v2S8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1301989244018348033/3RL0v2S8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18737039/1607021959",
+                "profile_link_color": "353D73",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 356,
+            "favorite_count": 1686,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 356,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:10 +0000 2020",
+        "id": 1344040541072355328,
+        "id_str": "1344040541072355328",
+        "text": "RT @course_net: #DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience #Python #RS…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                },
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        122,
+                        134
+                    ]
+                },
+                {
+                    "text": "Python",
+                    "indices": [
+                        135,
+                        142
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "course_net",
+                    "name": "Online Course Net",
+                    "id": 1153630276204896256,
+                    "id_str": "1153630276204896256",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/J4Fyl0bVAy",
+                    "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                    "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://twitter.com/DevHighlights\" rel=\"nofollow\">DevHighlights</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 824070649073188865,
+            "id_str": "824070649073188865",
+            "name": "Developer Highlights",
+            "screen_name": "DevHighlights",
+            "location": "",
+            "description": "Curated highlights for developers and builders.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9500,
+            "friends_count": 8628,
+            "listed_count": 167,
+            "created_at": "Wed Jan 25 01:45:28 +0000 2017",
+            "favourites_count": 56626,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 56708,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/831607536331563009/r_shHEbk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/831607536331563009/r_shHEbk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/824070649073188865/1487105819",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 29 22:00:01 +0000 2020",
+            "id": 1344040500819464193,
+            "id_str": "1344040500819464193",
+            "text": "#DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience… https://t.co/wTTbZ1F0on",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            106,
+                            118
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/J4Fyl0bVAy",
+                        "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                        "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                        "indices": [
+                            81,
+                            104
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/wTTbZ1F0on",
+                        "expanded_url": "https://twitter.com/i/web/status/1344040500819464193",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1153630276204896256,
+                "id_str": "1153630276204896256",
+                "name": "Online Course Net",
+                "screen_name": "course_net",
+                "location": "",
+                "description": "#Udemy, udemy coupon, udemyoff, udemy free, udemy courses, udemy free course, udemy free coupon #udemy certificate, #udemycoupon, #udemyfree",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 403,
+                "friends_count": 0,
+                "listed_count": 9,
+                "created_at": "Tue Jul 23 11:37:46 +0000 2019",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1996,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:08 +0000 2020",
+        "id": 1344040530393452544,
+        "id_str": "1344040530393452544",
+        "text": "RT @course_net: #DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience #Python #RS…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                },
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        122,
+                        134
+                    ]
+                },
+                {
+                    "text": "Python",
+                    "indices": [
+                        135,
+                        142
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "course_net",
+                    "name": "Online Course Net",
+                    "id": 1153630276204896256,
+                    "id_str": "1153630276204896256",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/J4Fyl0bVAy",
+                    "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                    "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://twitter.com/epuujee\" rel=\"nofollow\">Puujee Puje</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 108248850,
+            "id_str": "108248850",
+            "name": "Purevdorj Enkhjargal",
+            "screen_name": "epuujee",
+            "location": "Mongolia",
+            "description": "Data Science Enthusiast \n#KeepLearning #ML #NLP #DL #DataScience #AI #MN",
+            "url": "https://t.co/jYrVhNfjlD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jYrVhNfjlD",
+                            "expanded_url": "https://github.com/epuujee/data_science",
+                            "display_url": "github.com/epuujee/data_s…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3059,
+            "friends_count": 298,
+            "listed_count": 45,
+            "created_at": "Mon Jan 25 09:49:57 +0000 2010",
+            "favourites_count": 28594,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 228186,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "BBD9DE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1265477579504406530/7U6WV3Eu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265477579504406530/7U6WV3Eu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/108248850/1410248485",
+            "profile_link_color": "A5C6C1",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "44585E",
+            "profile_text_color": "86B7B1",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 29 22:00:01 +0000 2020",
+            "id": 1344040500819464193,
+            "id_str": "1344040500819464193",
+            "text": "#DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience… https://t.co/wTTbZ1F0on",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            106,
+                            118
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/J4Fyl0bVAy",
+                        "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                        "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                        "indices": [
+                            81,
+                            104
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/wTTbZ1F0on",
+                        "expanded_url": "https://twitter.com/i/web/status/1344040500819464193",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1153630276204896256,
+                "id_str": "1153630276204896256",
+                "name": "Online Course Net",
+                "screen_name": "course_net",
+                "location": "",
+                "description": "#Udemy, udemy coupon, udemyoff, udemy free, udemy courses, udemy free course, udemy free coupon #udemy certificate, #udemycoupon, #udemyfree",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 403,
+                "friends_count": 0,
+                "listed_count": 9,
+                "created_at": "Tue Jul 23 11:37:46 +0000 2019",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1996,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:08 +0000 2020",
+        "id": 1344040530162954240,
+        "id_str": "1344040530162954240",
+        "text": "RT @MJ_BIO: I received a postcard from @pyladiesmunich full of nice and warm words 💜..I truly appreciate your gesture and message. Happy to…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MJ_BIO",
+                    "name": "MariaJose Molina-Contreras",
+                    "id": 414209613,
+                    "id_str": "414209613",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "pyladiesmunich",
+                    "name": "PyLadies Munich",
+                    "id": 2886711933,
+                    "id_str": "2886711933",
+                    "indices": [
+                        39,
+                        54
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5647112,
+            "id_str": "5647112",
+            "name": "Dr. Mari 🌎👩🏻‍💻☕",
+            "screen_name": "marielli",
+            "location": "Berlin, Germany",
+            "description": "Berlin-based learning scientist/data scientist/coffee producer. ☕️ 🌱",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 720,
+            "friends_count": 985,
+            "listed_count": 18,
+            "created_at": "Mon Apr 30 07:27:15 +0000 2007",
+            "favourites_count": 11007,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3094,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/657632103052517376/vHt9OWur_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/657632103052517376/vHt9OWur_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5647112/1569425981",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 29 13:44:05 +0000 2020",
+            "id": 1343915696317730816,
+            "id_str": "1343915696317730816",
+            "text": "I received a postcard from @pyladiesmunich full of nice and warm words 💜..I truly appreciate your gesture and messa… https://t.co/yWKGRwvh8q",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pyladiesmunich",
+                        "name": "PyLadies Munich",
+                        "id": 2886711933,
+                        "id_str": "2886711933",
+                        "indices": [
+                            27,
+                            42
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/yWKGRwvh8q",
+                        "expanded_url": "https://twitter.com/i/web/status/1343915696317730816",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 414209613,
+                "id_str": "414209613",
+                "name": "MariaJose Molina-Contreras",
+                "screen_name": "MJ_BIO",
+                "location": "Berlin, Germany",
+                "description": "Data scientist and plant molecular biologist 🌱!\nI am interested in ML and any challenges related with Python 🐍 and/or data!\n❤ she/her",
+                "url": "https://t.co/NaklnDMvzh",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/NaklnDMvzh",
+                                "expanded_url": "http://mjmolina.xyz",
+                                "display_url": "mjmolina.xyz",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 415,
+                "friends_count": 637,
+                "listed_count": 3,
+                "created_at": "Wed Nov 16 19:31:10 +0000 2011",
+                "favourites_count": 2514,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 617,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062368116846542849/YWHXxcWS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062368116846542849/YWHXxcWS_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/414209613/1354898792",
+                "profile_link_color": "0097A7",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 10,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:06 +0000 2020",
+        "id": 1344040522650972161,
+        "id_str": "1344040522650972161",
+        "text": "RT @course_net: #DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience #Python #RS…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                },
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        122,
+                        134
+                    ]
+                },
+                {
+                    "text": "Python",
+                    "indices": [
+                        135,
+                        142
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "course_net",
+                    "name": "Online Course Net",
+                    "id": 1153630276204896256,
+                    "id_str": "1153630276204896256",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/J4Fyl0bVAy",
+                    "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                    "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://localhost.com\" rel=\"nofollow\">Serverless Tweet/Retweet Bot</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 971620109197312000,
+            "id_str": "971620109197312000",
+            "name": "Serverless Fan",
+            "screen_name": "ServerlessFan",
+            "location": "Sri Lanka",
+            "description": "#Serverless #Computing",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3384,
+            "friends_count": 6,
+            "listed_count": 129,
+            "created_at": "Thu Mar 08 05:34:20 +0000 2018",
+            "favourites_count": 7,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 299968,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/973611685822058497/yRRo9D52_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/973611685822058497/yRRo9D52_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/971620109197312000/1525426121",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 29 22:00:01 +0000 2020",
+            "id": 1344040500819464193,
+            "id_str": "1344040500819464193",
+            "text": "#DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience… https://t.co/wTTbZ1F0on",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            106,
+                            118
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/J4Fyl0bVAy",
+                        "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                        "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                        "indices": [
+                            81,
+                            104
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/wTTbZ1F0on",
+                        "expanded_url": "https://twitter.com/i/web/status/1344040500819464193",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1153630276204896256,
+                "id_str": "1153630276204896256",
+                "name": "Online Course Net",
+                "screen_name": "course_net",
+                "location": "",
+                "description": "#Udemy, udemy coupon, udemyoff, udemy free, udemy courses, udemy free course, udemy free coupon #udemy certificate, #udemycoupon, #udemyfree",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 403,
+                "friends_count": 0,
+                "listed_count": 9,
+                "created_at": "Tue Jul 23 11:37:46 +0000 2019",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1996,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:03 +0000 2020",
+        "id": 1344040509258539016,
+        "id_str": "1344040509258539016",
+        "text": "RT @course_net: #DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience #Python #RS…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                },
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        122,
+                        134
+                    ]
+                },
+                {
+                    "text": "Python",
+                    "indices": [
+                        135,
+                        142
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "course_net",
+                    "name": "Online Course Net",
+                    "id": 1153630276204896256,
+                    "id_str": "1153630276204896256",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/J4Fyl0bVAy",
+                    "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                    "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://nlogn.in\" rel=\"nofollow\">Nlogin_re</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1275056773443973124,
+            "id_str": "1275056773443973124",
+            "name": "Jessica shoonover",
+            "screen_name": "Women_who_code",
+            "location": "bootcamp",
+            "description": "24 🧬 ~ Javascript ❤️ ~ Mern Stack Developer ~ Next JS 🦄 ~ @nytimes ~ Books 📚 + coffee ☕",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1950,
+            "friends_count": 23,
+            "listed_count": 34,
+            "created_at": "Mon Jun 22 13:23:34 +0000 2020",
+            "favourites_count": 381,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 237909,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1319806256513646592/S1f4A7_A_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319806256513646592/S1f4A7_A_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275056773443973124/1603501540",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 29 22:00:01 +0000 2020",
+            "id": 1344040500819464193,
+            "id_str": "1344040500819464193",
+            "text": "#DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience… https://t.co/wTTbZ1F0on",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            106,
+                            118
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/J4Fyl0bVAy",
+                        "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                        "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                        "indices": [
+                            81,
+                            104
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/wTTbZ1F0on",
+                        "expanded_url": "https://twitter.com/i/web/status/1344040500819464193",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1153630276204896256,
+                "id_str": "1153630276204896256",
+                "name": "Online Course Net",
+                "screen_name": "course_net",
+                "location": "",
+                "description": "#Udemy, udemy coupon, udemyoff, udemy free, udemy courses, udemy free course, udemy free coupon #udemy certificate, #udemycoupon, #udemyfree",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 403,
+                "friends_count": 0,
+                "listed_count": 9,
+                "created_at": "Tue Jul 23 11:37:46 +0000 2019",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1996,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:02 +0000 2020",
+        "id": 1344040507891187714,
+        "id_str": "1344040507891187714",
+        "text": "CursorTek is #selling #bulk #data of 3k plus #categories like:\n\n#plumbing #electricians #contractors #architect… https://t.co/32nu0sIBn5",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "selling",
+                    "indices": [
+                        13,
+                        21
+                    ]
+                },
+                {
+                    "text": "bulk",
+                    "indices": [
+                        22,
+                        27
+                    ]
+                },
+                {
+                    "text": "data",
+                    "indices": [
+                        28,
+                        33
+                    ]
+                },
+                {
+                    "text": "categories",
+                    "indices": [
+                        45,
+                        56
+                    ]
+                },
+                {
+                    "text": "plumbing",
+                    "indices": [
+                        64,
+                        73
+                    ]
+                },
+                {
+                    "text": "electricians",
+                    "indices": [
+                        74,
+                        87
+                    ]
+                },
+                {
+                    "text": "contractors",
+                    "indices": [
+                        88,
+                        100
+                    ]
+                },
+                {
+                    "text": "architect",
+                    "indices": [
+                        101,
+                        111
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/32nu0sIBn5",
+                    "expanded_url": "https://twitter.com/i/web/status/1344040507891187714",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://cursortek.com/twitter_app\" rel=\"nofollow\">CursorTek Tweet Automation</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 931223747985575936,
+            "id_str": "931223747985575936",
+            "name": "cursortek",
+            "screen_name": "cursortek",
+            "location": "Faisalabad, Pakistan",
+            "description": "Cursortek Is an Web Development, Web scraping and Bulk Data providing Company. \nhttps://t.co/41Z1Zbi2C8",
+            "url": "https://t.co/41Z1Zbi2C8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/41Z1Zbi2C8",
+                            "expanded_url": "https://cursortek.com",
+                            "display_url": "cursortek.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/41Z1Zbi2C8",
+                            "expanded_url": "https://cursortek.com",
+                            "display_url": "cursortek.com",
+                            "indices": [
+                                80,
+                                103
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1573,
+            "friends_count": 1460,
+            "listed_count": 4,
+            "created_at": "Thu Nov 16 18:13:37 +0000 2017",
+            "favourites_count": 10,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 26984,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/931224964488933377/LnfVr1ie_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/931224964488933377/LnfVr1ie_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/931223747985575936/1544174987",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:02 +0000 2020",
+        "id": 1344040507047964672,
+        "id_str": "1344040507047964672",
+        "text": "おはようございます。\n昨日(12月29日)のPythonに関する記事は「30」件です。\nピックアップ記事:”Python パッケージ（ライブラリ）のpipコマンドを使ったインストール方…”\nhttps://t.co/fq4LIQEwVu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/fq4LIQEwVu",
+                    "expanded_url": "https://whatsnewqiita.com/20201229/Python",
+                    "display_url": "whatsnewqiita.com/20201229/Python",
+                    "indices": [
+                        95,
+                        118
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://qlu.lu\" rel=\"nofollow\">3D Cam qlulu </a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1086899104112726017,
+            "id_str": "1086899104112726017",
+            "name": "Python【Qiita新着】",
+            "screen_name": "PythonNewQiita",
+            "location": "Japan",
+            "description": "Pythonの小ネタをお探しの方へ。Pythonに関するQiitaの記事のまとめを毎日ポストします。 7時、12時、19時、23時にポスト予定です。",
+            "url": "https://t.co/iAnJlDbVv5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/iAnJlDbVv5",
+                            "expanded_url": "https://whatsnewqiita.com",
+                            "display_url": "whatsnewqiita.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1257,
+            "friends_count": 4,
+            "listed_count": 27,
+            "created_at": "Sun Jan 20 08:11:54 +0000 2019",
+            "favourites_count": 1,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2746,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1088284961386332160/ZmG7Tb6__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088284961386332160/ZmG7Tb6__normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:02 +0000 2020",
+        "id": 1344040506829860864,
+        "id_str": "1344040506829860864",
+        "text": "RT @course_net: #DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience #Python #RS…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                },
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        122,
+                        134
+                    ]
+                },
+                {
+                    "text": "Python",
+                    "indices": [
+                        135,
+                        142
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "course_net",
+                    "name": "Online Course Net",
+                    "id": 1153630276204896256,
+                    "id_str": "1153630276204896256",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/J4Fyl0bVAy",
+                    "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                    "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://techdox.nz\" rel=\"nofollow\">LinuxBot2.0</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1190726565073522694,
+            "id_str": "1190726565073522694",
+            "name": "LinuxBot",
+            "screen_name": "LlnuxBot",
+            "location": "Raspberry Pi",
+            "description": "Linux Bot | I retweet Linux | Created by @techydox\n\nhttps://t.co/DrRaUtSPGJ",
+            "url": "https://t.co/QySTldc3HS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/QySTldc3HS",
+                            "expanded_url": "http://www.techdox.nz",
+                            "display_url": "techdox.nz",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DrRaUtSPGJ",
+                            "expanded_url": "https://buymeacoff.ee/techdox",
+                            "display_url": "buymeacoff.ee/techdox",
+                            "indices": [
+                                52,
+                                75
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 3307,
+            "friends_count": 1,
+            "listed_count": 78,
+            "created_at": "Sat Nov 02 20:25:26 +0000 2019",
+            "favourites_count": 5,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 499600,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1190727216885358597/OoGENW9l_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190727216885358597/OoGENW9l_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190726565073522694/1586607550",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 29 22:00:01 +0000 2020",
+            "id": 1344040500819464193,
+            "id_str": "1344040500819464193",
+            "text": "#DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience… https://t.co/wTTbZ1F0on",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            106,
+                            118
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/J4Fyl0bVAy",
+                        "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                        "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                        "indices": [
+                            81,
+                            104
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/wTTbZ1F0on",
+                        "expanded_url": "https://twitter.com/i/web/status/1344040500819464193",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1153630276204896256,
+                "id_str": "1153630276204896256",
+                "name": "Online Course Net",
+                "screen_name": "course_net",
+                "location": "",
+                "description": "#Udemy, udemy coupon, udemyoff, udemy free, udemy courses, udemy free course, udemy free coupon #udemy certificate, #udemycoupon, #udemyfree",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 403,
+                "friends_count": 0,
+                "listed_count": 9,
+                "created_at": "Tue Jul 23 11:37:46 +0000 2019",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1996,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 22:00:01 +0000 2020",
+        "id": 1344040500819464193,
+        "id_str": "1344040500819464193",
+        "text": "#DataScience 2020 : Complete Data Science &amp; Machine Learning | Course\n\n=&gt; https://t.co/J4Fyl0bVAy\n\n#DataScience… https://t.co/wTTbZ1F0on",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        106,
+                        118
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/J4Fyl0bVAy",
+                    "expanded_url": "https://onlinecoursenet.blogspot.com/2020/07/data-science-2020-complete-data-science.html",
+                    "display_url": "onlinecoursenet.blogspot.com/2020/07/data-s…",
+                    "indices": [
+                        81,
+                        104
+                    ]
+                },
+                {
+                    "url": "https://t.co/wTTbZ1F0on",
+                    "expanded_url": "https://twitter.com/i/web/status/1344040500819464193",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        120,
+                        143
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1153630276204896256,
+            "id_str": "1153630276204896256",
+            "name": "Online Course Net",
+            "screen_name": "course_net",
+            "location": "",
+            "description": "#Udemy, udemy coupon, udemyoff, udemy free, udemy courses, udemy free course, udemy free coupon #udemy certificate, #udemycoupon, #udemyfree",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 403,
+            "friends_count": 0,
+            "listed_count": 9,
+            "created_at": "Tue Jul 23 11:37:46 +0000 2019",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1996,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153631735327780864/9BchHn1Q_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 29 21:59:54 +0000 2020",
+        "id": 1344040472394817536,
+        "id_str": "1344040472394817536",
+        "text": "@amkusiwd @onnowpurbo Install OSnya dulu, habis itu install python, terus langsung coba koding :)",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "amkusiwd",
+                    "name": "Awan",
+                    "id": 1246647086973464576,
+                    "id_str": "1246647086973464576",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "onnowpurbo",
+                    "name": "Onno W. Purbo",
+                    "id": 90134078,
+                    "id_str": "90134078",
+                    "indices": [
+                        10,
+                        21
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "in",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1343885770839322626,
+        "in_reply_to_status_id_str": "1343885770839322626",
+        "in_reply_to_user_id": 1246647086973464576,
+        "in_reply_to_user_id_str": "1246647086973464576",
+        "in_reply_to_screen_name": "amkusiwd",
+        "user": {
+            "id": 439707253,
+            "id_str": "439707253",
+            "name": "Ardika Rommy Sanjaya",
+            "screen_name": "ardikars",
+            "location": "Indonesia",
+            "description": "",
+            "url": "https://t.co/E5HqIV409p",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/E5HqIV409p",
+                            "expanded_url": "http://www.ardikars.com",
+                            "display_url": "ardikars.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 115,
+            "friends_count": 81,
+            "listed_count": 5,
+            "created_at": "Sun Dec 18 03:32:09 +0000 2011",
+            "favourites_count": 13,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1854,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1338770531034619904/vL_2tHTT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338770531034619904/vL_2tHTT_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "in"
+    },
+    {
+        "created_at": "Tue Dec 29 21:59:43 +0000 2020",
+        "id": 1344040428946006016,
+        "id_str": "1344040428946006016",
+        "text": "Maratona dei Monty Python",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "cy",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 215718268,
+            "id_str": "215718268",
+            "name": "KM",
+            "screen_name": "lohansIut",
+            "location": "",
+            "description": "Judging you",
+            "url": "https://t.co/LLv2mCsRLo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LLv2mCsRLo",
+                            "expanded_url": "https://curiouscat.me/Miravnda",
+                            "display_url": "curiouscat.me/Miravnda",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2661,
+            "friends_count": 196,
+            "listed_count": 59,
+            "created_at": "Sun Nov 14 18:45:10 +0000 2010",
+            "favourites_count": 19000,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 71494,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1343263104851992577/MrVKasQd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343263104851992577/MrVKasQd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/215718268/1588780467",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "cy"
+    },
+    {
+        "created_at": "Tue Dec 29 21:59:35 +0000 2020",
+        "id": 1344040395311706112,
+        "id_str": "1344040395311706112",
+        "text": "RT @ThejuPaul: Bring Zen to #OpenSource #MLOps @AdPro3012\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OpenSource",
+                    "indices": [
+                        28,
+                        39
+                    ]
+                },
+                {
+                    "text": "MLOps",
+                    "indices": [
+                        40,
+                        46
+                    ]
+                },
+                {
+                    "text": "BigData",
+                    "indices": [
+                        59,
+                        67
+                    ]
+                },
+                {
+                    "text": "Analytics",
+                    "indices": [
+                        68,
+                        78
+                    ]
+                },
+                {
+                    "text": "DataScience",
+                    "indices": [
+                        79,
+                        91
+                    ]
+                },
+                {
+                    "text": "AI",
+                    "indices": [
+                        92,
+                        95
+                    ]
+                },
+                {
+                    "text": "MachineLearning",
+                    "indices": [
+                        96,
+                        112
+                    ]
+                },
+                {
+                    "text": "IoT",
+                    "indices": [
+                        113,
+                        117
+                    ]
+                },
+                {
+                    "text": "IIoT",
+                    "indices": [
+                        118,
+                        123
+                    ]
+                },
+                {
+                    "text": "Python",
+                    "indices": [
+                        124,
+                        131
+                    ]
+                },
+                {
+                    "text": "RStats",
+                    "indices": [
+                        132,
+                        139
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ThejuPaul",
+                    "name": "Theju Paul | EmergingTech Startup SDGs StoryTeller",
+                    "id": 57903417,
+                    "id_str": "57903417",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "AdPro3012",
+                    "name": "Adam Probst",
+                    "id": 756536993350356992,
+                    "id_str": "756536993350356992",
+                    "indices": [
+                        47,
+                        57
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 901509207026827264,
+            "id_str": "901509207026827264",
+            "name": "electivenow@gmail.com",
+            "screen_name": "electivenow",
+            "location": "india",
+            "description": "A logical approach to the problem at hand.I have opinion on sports,politics, Finance and relevant topics.Avoid controversy. Support India and Indians.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1007,
+            "friends_count": 1107,
+            "listed_count": 30,
+            "created_at": "Sat Aug 26 18:18:38 +0000 2017",
+            "favourites_count": 43834,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 31817,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1342052720341970945/OVNsY4vp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342052720341970945/OVNsY4vp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/901509207026827264/1537769483",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Dec 28 00:03:42 +0000 2020",
+            "id": 1343346851362320385,
+            "id_str": "1343346851362320385",
+            "text": "Bring Zen to #OpenSource #MLOps @AdPro3012\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT… https://t.co/QT56KBP0GP",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "OpenSource",
+                        "indices": [
+                            13,
+                            24
+                        ]
+                    },
+                    {
+                        "text": "MLOps",
+                        "indices": [
+                            25,
+                            31
+                        ]
+                    },
+                    {
+                        "text": "BigData",
+                        "indices": [
+                            44,
+                            52
+                        ]
+                    },
+                    {
+                        "text": "Analytics",
+                        "indices": [
+                            53,
+                            63
+                        ]
+                    },
+                    {
+                        "text": "DataScience",
+                        "indices": [
+                            64,
+                            76
+                        ]
+                    },
+                    {
+                        "text": "AI",
+                        "indices": [
+                            77,
+                            80
+                        ]
+                    },
+                    {
+                        "text": "MachineLearning",
+                        "indices": [
+                            81,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "IoT",
+                        "indices": [
+                            98,
+                            102
+                        ]
+                    },
+                    {
+                        "text": "IIoT",
+                        "indices": [
+                            103,
+                            108
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AdPro3012",
+                        "name": "Adam Probst",
+                        "id": 756536993350356992,
+                        "id_str": "756536993350356992",
+                        "indices": [
+                            32,
+                            42
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/QT56KBP0GP",
+                        "expanded_url": "https://twitter.com/i/web/status/1343346851362320385",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            110,
+                            133
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 57903417,
+                "id_str": "57903417",
+                "name": "Theju Paul | EmergingTech Startup SDGs StoryTeller",
+                "screen_name": "ThejuPaul",
+                "location": "Saigon | Ahmedabad | Kochi",
+                "description": "#AI #Analytics #Blockchain #FinTech #DataScience #DigitalTransformation #FacialRecognition #Robotics #ThejuPaul\n \nhttps://t.co/TTR7hfgNNi\n\nhttps://t.co/mpENdwdDnN",
+                "url": "https://t.co/CsXlOvPVzV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/CsXlOvPVzV",
+                                "expanded_url": "https://www.twitter.com/search?q=:from:ThejuPaul/exclude:replies",
+                                "display_url": "twitter.com/search?q=:from…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TTR7hfgNNi",
+                                "expanded_url": "http://linkedin.com/in/ThejuPaul",
+                                "display_url": "linkedin.com/in/ThejuPaul",
+                                "indices": [
+                                    114,
+                                    137
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/mpENdwdDnN",
+                                "expanded_url": "http://about.me/Theju.Paul",
+                                "display_url": "about.me/Theju.Paul",
+                                "indices": [
+                                    139,
+                                    162
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 888,
+                "friends_count": 48,
+                "listed_count": 53,
+                "created_at": "Sat Jul 18 10:18:10 +0000 2009",
+                "favourites_count": 35686,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 5007,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1337549278823190528/8B6i9MUh_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337549278823190528/8B6i9MUh_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/57903417/1353380760",
+                "profile_link_color": "33CCFF",
+                "profile_sidebar_border_color": "33CCFF",
+                "profile_sidebar_fill_color": "171717",
+                "profile_text_color": "555555",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1343238475999547396,
+            "quoted_status_id_str": "1343238475999547396",
+            "quoted_status": {
+                "created_at": "Sun Dec 27 16:53:03 +0000 2020",
+                "id": 1343238475999547396,
+                "id_str": "1343238475999547396",
+                "text": "Bring Zen to Your #OpenSource #MLOps Per Request from @AdPro3012. #BigData #Analytics #DataScience #AI… https://t.co/wWcFWmaSoJ",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "OpenSource",
+                            "indices": [
+                                18,
+                                29
+                            ]
+                        },
+                        {
+                            "text": "MLOps",
+                            "indices": [
+                                30,
+                                36
+                            ]
+                        },
+                        {
+                            "text": "BigData",
+                            "indices": [
+                                66,
+                                74
+                            ]
+                        },
+                        {
+                            "text": "Analytics",
+                            "indices": [
+                                75,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "DataScience",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        },
+                        {
+                            "text": "AI",
+                            "indices": [
+                                99,
+                                102
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "AdPro3012",
+                            "name": "Adam Probst",
+                            "id": 756536993350356992,
+                            "id_str": "756536993350356992",
+                            "indices": [
+                                54,
+                                64
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/wWcFWmaSoJ",
+                            "expanded_url": "https://twitter.com/i/web/status/1343238475999547396",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                104,
+                                127
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 4263007693,
+                    "id_str": "4263007693",
+                    "name": "Dr. Ganapathi Pulipaka",
+                    "screen_name": "gp_pulipaka",
+                    "location": "Redondo Beach, CA",
+                    "description": "Chief #AI #HPC Scientist | #Speaker | PostDoc CS, PhD | Bestselling #Author | 18.4M V | Top #BigData #DataScience #MachineLearning #IIoT Influencer @Onalytica",
+                    "url": "https://t.co/eYyaJsEcfw",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/eYyaJsEcfw",
+                                    "expanded_url": "http://www.gppulipaka.org",
+                                    "display_url": "gppulipaka.org",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 108857,
+                    "friends_count": 24167,
+                    "listed_count": 3536,
+                    "created_at": "Tue Nov 17 02:19:09 +0000 2015",
+                    "favourites_count": 9,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 59936,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1315479714790694912/MQmkjugW_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315479714790694912/MQmkjugW_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4263007693/1605195322",
+                    "profile_link_color": "DD2E44",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 48,
+                "favorite_count": 30,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 31,
+            "favorite_count": 13,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1343238475999547396,
+        "quoted_status_id_str": "1343238475999547396",
+        "retweet_count": 31,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]
